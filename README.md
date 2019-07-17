@@ -1,4 +1,5 @@
 # flutter_travis_test
+[![Build Status](https://travis-ci.com/ejprok/flutter_travis_test.svg?branch=master)](https://travis-ci.com/ejprok/flutter_travis_test)
 
 A new Flutter project.
 
